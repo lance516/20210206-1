@@ -1,0 +1,48 @@
+/* header h1 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.bar-word:hover {
+  text-decoration: underline;
+  color: white;
+  font-weight: bold;
+  background-color: black;
+}
+
+.bar {
+  display: flex;
+	justify-content: center;
+}
+
+.heading-box {
+  width: 100%;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.bar-word {
+  float: left;
+  padding: 10px;
+  text-align: center;
+  transition: .8s;
+  width: 100px;
+}
+
+.a1{
+  display: inline-block;
+  color: #000;
+} */
+
+.a-buttom {
+  text-decoration: none;
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+  transition: .8s;
+}
+
+.a-buttom:hover {
+  text-decoration: underline;
+  background-color: red;
+  color: white;
+}

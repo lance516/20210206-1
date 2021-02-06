@@ -1,0 +1,27 @@
+.indexscrolltext {
+	font-size: 1.5rem;
+	color: white;
+	font-weight: bold;
+}
+
+marquee {
+	background-color: red;
+	opacity: .8;
+}
+
+.discribe-photo {
+	width: 200px;
+	height: 200px;
+}
+
+.reminder {
+	font-size: 1.25rem;
+	color: red;
+}
+
+@media screen and (max-width: 480px) {
+	iframe {
+		max-width: 80vw;
+		max-height: 80vw;
+	}
+}
