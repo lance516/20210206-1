@@ -44,3 +44,8 @@ header h1 {
 body {
   background-color: rgba(186, 221, 243, .5);
 }
+
+button {
+  border-radius: 10%;
+  font-size: 18px;
+}
