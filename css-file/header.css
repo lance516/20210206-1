@@ -18,7 +18,7 @@ header h1 {
 .heading-box {
   width: 100%;
   border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  border-bottom: .5px solid black;
 }
 .bar-word {
   float: left;
@@ -48,4 +48,9 @@ body {
 button {
   border-radius: 10%;
   font-size: 18px;
+}
+
+nav {
+  margin: 0;
+  padding: 0;
 }
